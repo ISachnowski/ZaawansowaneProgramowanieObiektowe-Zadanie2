@@ -1,0 +1,4 @@
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Zad 2.2\Zad 2.2\bin\Debug\Zad 2.2.exe
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Zad 2.2\Zad 2.2\bin\Debug\Zad 2.2.pdb
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Zad 2.2\Zad 2.2\obj\x86\Debug\Zad 2.2.exe
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Zad 2.2\Zad 2.2\obj\x86\Debug\Zad 2.2.pdb
